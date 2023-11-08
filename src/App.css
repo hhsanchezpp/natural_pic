@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 64%;
+  min-height: 100vh;
+}
+body {
+  margin: 0;
+  font-size: 1.5rem;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
